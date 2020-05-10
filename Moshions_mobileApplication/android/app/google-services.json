@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601001840140",
+    "firebase_url": "https://moshions.firebaseio.com",
+    "project_id": "moshions",
+    "storage_bucket": "moshions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601001840140:android:4fc6d114f6c27578e56829",
+        "android_client_info": {
+          "package_name": "com.xperience.moshions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601001840140-rm0erb6gg8n42mh3ihivlfgvqb8egtik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ5e6HDzdPqxe4C_dRPVwKKSJBivFtyFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601001840140-rm0erb6gg8n42mh3ihivlfgvqb8egtik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
